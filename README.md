@@ -1,25 +1,13 @@
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="100%" height="250">
-    <defs>
-      <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#1e1b4b" />
-        <stop offset="40%" stop-color="#311042" />
-        <stop offset="70%" stop-color="#4c1d95" />
-        <stop offset="100%" stop-color="#6d28d9" />
-      </linearGradient>
-    </defs>
-    <!-- Background Base Layer -->
-    <rect width="1200" height="250" fill="url(#purpleGradient)" />
-    <!-- Wave Vectors matching the original Capsule shape -->
-    <path d="M0,160 C300,260 600,100 900,220 C1050,280 1150,200 1200,180 L1200,250 L0,250 Z" fill="#0d1117" opacity="0.9"/>
-    <path d="M0,190 C400,280 700,140 1000,240 L1200,250 L0,250 Z" fill="#0d1117" opacity="0.4"/>
-    <!-- Centered Enterprise Profile Typography -->
-    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="52" fill="#ffffff" letter-spacing="6">VAMSHI YASKI</text>
-  </svg>
-</p>
+<div align="center">
+
+# 🌌 VAMSHI YASKI
+### SOFTWARE ENGINEER &amp; AI FULL-STACK DEVELOPER
+***
+
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -36,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yaskivamshi&color=violet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yaskivamshi&color=7B1FA2&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/yaskivamshi?label=Followers&style=flat-square&color=indigo" alt="Followers" />
   <img src="https://img.shields.io/github/stars/yaskivamshi?label=Stars&style=flat-square&color=purple" alt="Stars" />
 </p>
@@ -45,12 +33,13 @@
 
 ## 💻 About Me
 
-I am a Software Engineer and AI Full-Stack Developer with experience building scalable web applications, AI-powered systems, and cloud-native solutions. Leveraging a strong technical core in Electronics and Communication Engineering Hyderabad, merged with specialization in Artificial Intelligence and Data Science, I design and engineer product-focused applications.
+I am a Software Engineer and AI Full-Stack Developer with experience building scalable web applications, AI-powered systems, and cloud-native solutions[cite: 1]. Leveraging a strong technical core in Electronics and Communication Engineering[cite: 1] merged with specialization in Artificial Intelligence and Data Science[cite: 1], I design and engineer product-focused applications.
 
-My engineering strategy centers around deploying high-reliability MERN architectures alongside state-of-the-art Generative AI integrations. I actively build end-to-end intelligent platforms, focusing on performance optimizations and automated RAG pipelines to maximize user value..
+My engineering strategy centers around deploying high-reliability MERN architectures alongside state-of-the-art Generative AI integrations[cite: 1]. I actively build end-to-end intelligent platforms, focusing on performance optimizations and automated RAG pipelines to maximize user value[cite: 1].
 
-*   **AI/ML Expertise:** Custom Retrieval-Augmented Generation (RAG) implementation, multi-agent frameworks, and local LLM orchestration*   **Full Stack Development:** Architecture deployment utilizing React, FastAPI, Node.js, and modern cloud technologies.
-*   **Open To:** Full-time Software Development Engineer (SDE) roles and intelligent AI platform engineering.
+*   **AI/ML Expertise:** Custom Retrieval-Augmented Generation (RAG) implementation, multi-agent frameworks, and local LLM orchestration[cite: 1].
+*   **Full Stack Development:** Architecture deployment utilizing React, FastAPI, Node.js, and modern cloud technologies[cite: 1].
+*   **Open To:** Full-time Software Development Engineer (SDE) roles and intelligent AI platform engineering[cite: 1].
 
 ---
 
@@ -82,10 +71,10 @@ My engineering strategy centers around deploying high-reliability MERN architect
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Generative AI** | Advanced | RAG pipelines, LangChain orchestration, Prompt Engineering |
-| **LLMs & Open Source** | Intermediate | Ollama integration, OpenRouter, Multi-Agent Systems |
-| **Vector Search** | Advanced | ChromaDB implementation, intelligent semantic document chat |
-| **AI Workflows** | Advanced | ATS resume optimization scoring, AI-driven text rewriting tools |
+| **Generative AI** | Advanced | RAG pipelines, LangChain orchestration, Prompt Engineering[cite: 1] |
+| **LLMs & Open Source** | Intermediate | Ollama integration, OpenRouter, Multi-Agent Systems[cite: 1] |
+| **Vector Search** | Advanced | ChromaDB implementation, intelligent semantic document chat[cite: 1] |
+| **AI Workflows** | Advanced | ATS resume optimization scoring, AI-driven text rewriting tools[cite: 1] |
 
 ---
 
@@ -96,19 +85,19 @@ My engineering strategy centers around deploying high-reliability MERN architect
 <br />
 
 ### Project Description
-A comprehensive full-stack AI assistant hosting continuous conversational AI architectures, semantic document parsing interfaces, live web querying capabilities, and automated resume optimizations.
+A comprehensive full-stack AI assistant hosting continuous conversational AI architectures, semantic document parsing interfaces, live web querying capabilities, and automated resume optimizations[cite: 1].
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | React.js, FastAPI, Node.js, LangChain, ChromaDB, Ollama, Supabase, Tailwind CSS |
-| **Scale** | Multi-Model LLM workflow integration processing dynamic client inputs. |
-| **Performance** | Intelligent high-speed document interaction using localized semantic embedding stores. |
-| **Security** | Secure external provider API structures and segmented user workspace architectures. |
-| **Impact** | Fully automated ATS parsing metrics, scoring parameters, and intelligent rewriting structures. |
+| **Stack** | React.js, FastAPI, Node.js, LangChain, ChromaDB, Ollama, Supabase, Tailwind CSS[cite: 1] |
+| **Scale** | Multi-Model LLM workflow integration processing dynamic client inputs[cite: 1] |
+| **Performance** | Intelligent high-speed document interaction using localized semantic embedding stores[cite: 1] |
+| **Security** | Secure external provider API structures and segmented user workspace architectures[cite: 1] |
+| **Impact** | Fully automated ATS parsing metrics, scoring parameters, and intelligent rewriting structures[cite: 1] |
 | **Repository** | [Nexus-AI-Platform](https://github.com/yaskivamshi) |
 
 ### Technical Deep Dive
-Engineered optimized Retrieval-Augmented Generation (RAG) pipelines inside LangChain utilizing ChromaDB vector databases to parse and analyze unstructured internal data structures cleanly.. Handled high-availability deployment structures dividing operations safely over Vercel, Render, Supabase, and MongoDB backend pipelines..
+Engineered optimized Retrieval-Augmented Generation (RAG) pipelines inside LangChain utilizing ChromaDB vector databases to parse and analyze unstructured internal data structures cleanly[cite: 1]. Handled high-availability deployment structures dividing operations safely over Vercel, Render, Supabase, and MongoDB backend pipelines[cite: 1].
 
 </details>
 
@@ -117,19 +106,19 @@ Engineered optimized Retrieval-Augmented Generation (RAG) pipelines inside LangC
 <br />
 
 ### Project Description
-A secure financial transaction monitoring ecosystem built using the MERN stack featuring real-time state mutations and responsive analytics interfaces..
+A secure financial transaction monitoring ecosystem built using the MERN stack featuring real-time state mutations and responsive analytics interfaces[cite: 1].
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS. |
-| **Scale** | Consistent real-time ledger management and concurrent record validation threads. |
-| **Performance** | Application execution velocities accelerated by 30% via specialized lazy-loading. |
-| **Security** | JSON Web Token (JWT) stateless user authentication and secure routing protections. |
-| **Impact** | Streamlined layout and secure storage processing pipelines for transactional logging. |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS[cite: 1] |
+| **Scale** | Consistent real-time ledger management and concurrent record validation threads[cite: 1] |
+| **Performance** | Application execution velocities accelerated by 30% via specialized lazy-loading[cite: 1] |
+| **Security** | JSON Web Token (JWT) stateless user authentication and secure routing protections[cite: 1] |
+| **Impact** | Streamlined layout and secure storage processing pipelines for transactional logging[cite: 1] |
 | **Repository** | [Expense-Management-System](https://github.com/yaskivamshi) |
 
 ### Technical Deep Dive
-Constructed optimal REST API controllers to establish lightweight asynchronous data transfers across MongoDB collections.. Enhanced initial engine render times globally by applying lazy-loading component configurations and optimization strategies inside the main React environment..
+Constructed optimal REST API controllers to establish lightweight asynchronous data transfers across MongoDB collections[cite: 1]. Enhanced initial engine render times globally by applying lazy-loading component configurations and optimization strategies inside the main React environment[cite: 1].
 
 </details>
 
@@ -138,11 +127,11 @@ Constructed optimal REST API controllers to establish lightweight asynchronous d
 ## 💼 Professional Experience
 
 ### **Full Stack Intern** | EY GDS (AICTE & Edunet Foundation)
-*February 2025 — March 2025*.
-* Elevated core MERN-stack architecture features, drastically scaling overall operational stability across internal development dashboards..
-* Directly isolated and resolved over 15 critical blocking frontend layout issues and complex server API bugs across React and Node.js frameworks..
-* Contributed inside structured Agile cycles including rigorous unit regression checkups, cloud environment deployments, and engineering code documentation..
-* **Skills:** `React` `Node.js` `Express.js` `MongoDB` `MERN Stack`.
+*February 2025 — March 2025*[cite: 1]
+* Elevate core MERN-stack architecture features, drastically scaling overall operational stability across internal development dashboards[cite: 1].
+* Directly isolated and resolved over 15 critical blocking frontend layout issues and complex server API bugs across React and Node.js frameworks[cite: 1].
+* Contributed inside structured Agile cycles including rigorous unit regression checkups, cloud environment deployments, and engineering code documentation[cite: 1].
+* **Skills:** `React` `Node.js` `Express.js` `MongoDB` `MERN Stack`[cite: 1]
 
 ---
 
@@ -150,19 +139,19 @@ Constructed optimal REST API controllers to establish lightweight asynchronous d
 
 | Recognition | Details |
 | :---: | :--- |
-| **Enterprise Feature Delivery** | Cleaned and successfully closed 15+ production issues inside MERN frameworks during core internship timelines.. |
-| **Multi-Model Orchestrator** | Conceived, engineered, and successfully launched a complete multi-LLM, RAG-enabled production system on Vercel.. |
+| **Enterprise Feature Delivery** | Cleaned and successfully closed 15+ production issues inside MERN frameworks during core internship timelines[cite: 1]. |
+| **Multi-Model Orchestrator** | Conceived, engineered, and successfully launched a complete multi-LLM, RAG-enabled production system on Vercel[cite: 1]. |
 
 ---
 
 ## 📜 Certifications
 
 ### **Amazon Web Services**
-![](https://img.shields.io/badge/AWS-EC2_and_S3_Cloud_Infrastructure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/AWS-EC2_and_S3_Cloud_Infrastructure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)[cite: 1]
 
 ### **AI & Framework Certifications**
-![](https://img.shields.io/badge/LangChain-Generative_AI_Applications-0089D6?style=flat-square)
-![](https://img.shields.io/badge/MERN-Full_Stack_Development-298D46?style=flat-square&logo=mongodb&logoColor=white).
+![](https://img.shields.io/badge/LangChain-Generative_AI_Applications-0089D6?style=flat-square)[cite: 1]
+![](https://img.shields.io/badge/MERN-Full_Stack_Development-298D46?style=flat-square&logo=mongodb&logoColor=white)[cite: 1]
 
 ---
 
@@ -217,12 +206,12 @@ Constructed optimal REST API controllers to establish lightweight asynchronous d
 
 ```yaml
 learning:
-  - "Multi-Agent Systems Coordination Optimization".
-  - "Advanced Cloud Infrastructure Architecture scaling over AWS".
+  - "Multi-Agent Systems Coordination Optimization"[cite: 1]
+  - "Advanced Cloud Infrastructure Architecture scaling over AWS"[cite: 1]
 building:
-  - "Refining Nexus AI analytical engine interfaces and vector operations".
+  - "Refining Nexus AI analytical engine interfaces and vector operations"[cite: 1]
 exploring:
-  - "Distributed database caching strategies for complex REST structures".
+  - "Distributed database caching strategies for complex REST structures"[cite: 1]
 open_to:
-  - "Software Development Engineer Roles".
+  - "Software Development Engineer Roles"[cite: 1]
   - "Collaborative Enterprise Open Source Innovations"
