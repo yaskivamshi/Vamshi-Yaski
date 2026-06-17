@@ -1,5 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=250&section=header&text=VAMSHI%20YASKI&fontSize=50&fontAlignY=35&theme=dark" alt="Header Banner" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="100%" height="250">
+    <defs>
+      <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#1e1b4b" />
+        <stop offset="40%" stop-color="#311042" />
+        <stop offset="70%" stop-color="#4c1d95" />
+        <stop offset="100%" stop-color="#6d28d9" />
+      </linearGradient>
+    </defs>
+    <!-- Background Base Layer -->
+    <rect width="1200" height="250" fill="url(#purpleGradient)" />
+    <!-- Wave Vectors matching the original Capsule shape -->
+    <path d="M0,160 C300,260 600,100 900,220 C1050,280 1150,200 1200,180 L1200,250 L0,250 Z" fill="#0d1117" opacity="0.9"/>
+    <path d="M0,190 C400,280 700,140 1000,240 L1200,250 L0,250 Z" fill="#0d1117" opacity="0.4"/>
+    <!-- Centered Enterprise Profile Typography -->
+    <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="52" fill="#ffffff" letter-spacing="6">VAMSHI YASKI</text>
+  </svg>
 </p>
 
 <p align="center">
