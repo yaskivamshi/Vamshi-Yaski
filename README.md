@@ -1,21 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=250&section=header&text=SOFTWARE%20%26%20AI%20ENGINEER&fontSize=50&fontAlignY=35&theme=dark" alt="Header Banner" />
+  <img src="https://capsule-render.herokuapp.com/main?type=wave&color=auto&height=250&section=header&text=VAMSHI%20YASKI&fontSize=50&fontAlignY=35&theme=dark" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Architectures;AI+%2F+ML+Systems+Engineering;Full+Stack+Product+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+Full-Stack+Developer;Building+Intelligent+Systems" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-B.Tech%20%7C%20ECE-7B1FA2?style=flat-square&logo=graduation-cap&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Education-MBA-4A148C?style=flat-square&logo=google-academic&logoColor=white" alt="Academic Badge 2" />
+  <img src="https://img.shields.io/badge/Education-MBA%20%7C%20AI%20%26%20Data%20Science-4A148C?style=flat-square&logo=google-academic&logoColor=white" alt="Academic Badge 2" />
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-6A1B9A?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 <p align="center">
   <a href="https://github.com/yaskivamshi"><img src="https://img.shields.io/badge/Portfolio-Premium-purple?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-violet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:vamshiyaski99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-violet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yaskivamshi"><img src="https://img.shields.io/badge/GitHub-Follow-indigo?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
@@ -29,13 +29,12 @@
 
 ## 💻 About Me
 
-I am a rigorous Software Engineer and AI practitioner focused on building high-throughput, intelligent applications. Leveraging a technical foundation in Electronics and Communication Engineering combined with an enterprise-level business mindset from my management studies, I design systems that optimize performance, scalability, and long-term business value.
+I am a Software Engineer and AI Full-Stack Developer with experience building scalable web applications, AI-powered systems, and cloud-native solutions. Leveraging a strong technical core in Electronics and Communication Engineering Hyderabad, merged with specialization in Artificial Intelligence and Data Science, I design and engineer product-focused applications.
 
-My engineering philosophy centers around architectural clean code, automated ML pipelines (MLOps), and robust full-stack deployment frameworks. I bridge the gap between heavy infrastructure optimization and elegant user-centric product engineering.
+My engineering strategy centers around deploying high-reliability MERN architectures alongside state-of-the-art Generative AI integrations. I actively build end-to-end intelligent platforms, focusing on performance optimizations and automated RAG pipelines to maximize user value..
 
-*   **AI/ML Expertise:** Building automated training pipelines, optimizing transformer models, and deploying high-concurrency inference endpoints.
-*   **Full Stack Development:** Architectural design in modern microservices architectures utilizing cloud-native patterns.
-*   **Open To:** Senior system architecture designs, enterprise-level greenfield projects, and core AI research integration.
+*   **AI/ML Expertise:** Custom Retrieval-Augmented Generation (RAG) implementation, multi-agent frameworks, and local LLM orchestration*   **Full Stack Development:** Architecture deployment utilizing React, FastAPI, Node.js, and modern cloud technologies.
+*   **Open To:** Full-time Software Development Engineer (SDE) roles and intelligent AI platform engineering.
 
 ---
 
@@ -43,22 +42,22 @@ My engineering philosophy centers around architectural clean code, automated ML 
 
 ### 🚀 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,python,ts,js,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js" alt="Languages" />
 </p>
 
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="Frontend" />
 </p>
 
 ### 🗄️ Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mongodb,redis" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,supabase,mysql" alt="Backend & Databases" />
 </p>
 
 ### ☁️ Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,git" alt="Cloud & DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,git,github,postman" alt="Cloud & DevOps" />
 </p>
 
 ---
@@ -67,54 +66,54 @@ My engineering philosophy centers around architectural clean code, automated ML 
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Deep Learning** | Advanced | Computer Vision, NLP processing pipelines, Custom Transformers |
-| **MLOps & Orchestration** | Intermediate | Automated pipelines, Model versioning, MLflow, Triton Inference Server |
-| **Predictive Analytics** | Advanced | High-dimensional time-series forecasting, Enterprise data modeling |
-| **Generative AI** | Advanced | RAG pipelines, Vector databases (Pinecone/Milvus), LLM fine-tuning |
+| **Generative AI** | Advanced | RAG pipelines, LangChain orchestration, Prompt Engineering |
+| **LLMs & Open Source** | Intermediate | Ollama integration, OpenRouter, Multi-Agent Systems |
+| **Vector Search** | Advanced | ChromaDB implementation, intelligent semantic document chat |
+| **AI Workflows** | Advanced | ATS resume optimization scoring, AI-driven text rewriting tools |
 
 ---
 
 ## 📦 Featured Projects
 
 <details>
-<summary><b>⚡ Enterprise Intelligent Orchestrator</b></summary>
+<summary><b>⚡ Nexus AI - Assistant Platform</b></summary>
 <br />
 
 ### Project Description
-A distributed microservices orchestration system designed to automate large-scale enterprise workflows with real-time AI decision-making trees.
+A comprehensive full-stack AI assistant hosting continuous conversational AI architectures, semantic document parsing interfaces, live web querying capabilities, and automated resume optimizations.
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | .NET Core, Python, RabbitMQ, PostgreSQL, Azure Kubernetes Service |
-| **Scale** | 10M+ daily API transactions orchestration |
-| **Performance** | <45ms median response latency across service boundaries |
-| **Security** | OAuth2/OIDC, End-to-End TLS, Row-Level Database Security |
-| **Impact** | Reduced operational processing latency by 42% for multi-tenant users |
-| **Repository** | [Private-Enterprise-Repo](#) |
+| **Stack** | React.js, FastAPI, Node.js, LangChain, ChromaDB, Ollama, Supabase, Tailwind CSS |
+| **Scale** | Multi-Model LLM workflow integration processing dynamic client inputs. |
+| **Performance** | Intelligent high-speed document interaction using localized semantic embedding stores. |
+| **Security** | Secure external provider API structures and segmented user workspace architectures. |
+| **Impact** | Fully automated ATS parsing metrics, scoring parameters, and intelligent rewriting structures. |
+| **Repository** | [Nexus-AI-Platform](https://github.com/yaskivamshi) |
 
 ### Technical Deep Dive
-Engineered using a CQRS pattern with an event-driven infrastructure. Implemented a custom ML forecasting engine using Python that dynamically scales pod instances inside AKS based on anticipated traffic demands. The data layer utilizes Redis clusters for low-latency state persistence alongside optimized PostgreSQL indexing strategies.
+Engineered optimized Retrieval-Augmented Generation (RAG) pipelines inside LangChain utilizing ChromaDB vector databases to parse and analyze unstructured internal data structures cleanly.. Handled high-availability deployment structures dividing operations safely over Vercel, Render, Supabase, and MongoDB backend pipelines..
 
 </details>
 
 <details>
-<summary><b>👁️ DeepVision - Autonomous Real-Time Analytics</b></summary>
+<summary><b>💰 Expense Management System</b></summary>
 <br />
 
 ### Project Description
-An end-to-end edge-computed computer vision pipeline built for multi-camera video stream ingestion and analytical inference processing.
+A secure financial transaction monitoring ecosystem built using the MERN stack featuring real-time state mutations and responsive analytics interfaces..
 
 | Metric | Details |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, Docker, OpenCV, FastAPI, AWS EC2 |
-| **Scale** | Concurrent ingestion of 50+ UHD video feeds |
-| **Performance** | 30 FPS inference processing utilizing parallelized processing queues |
-| **Security** | Encrypted RTSP streams, strict IAM roles, VPC isolation |
-| **Impact** | Enabled high-precision asset tracking and anomaly detection models |
-| **Repository** | [DeepVision-Core](#) |
+| **Stack** | React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS. |
+| **Scale** | Consistent real-time ledger management and concurrent record validation threads. |
+| **Performance** | Application execution velocities accelerated by 30% via specialized lazy-loading. |
+| **Security** | JSON Web Token (JWT) stateless user authentication and secure routing protections. |
+| **Impact** | Streamlined layout and secure storage processing pipelines for transactional logging. |
+| **Repository** | [Expense-Management-System](https://github.com/yaskivamshi) |
 
 ### Technical Deep Dive
-Utilized TensorRT optimization protocols to accelerate model execution times on NVIDIA infrastructure. Developed custom asynchronous frame allocation algorithms via FastAPI to minimize memory leaks during continuous loop iterations, reducing total infrastructure overhead by 30%.
+Constructed optimal REST API controllers to establish lightweight asynchronous data transfers across MongoDB collections.. Enhanced initial engine render times globally by applying lazy-loading component configurations and optimization strategies inside the main React environment..
 
 </details>
 
@@ -122,19 +121,12 @@ Utilized TensorRT optimization protocols to accelerate model execution times on 
 
 ## 💼 Professional Experience
 
-### **Senior Software Engineer / AI Architect** | Enterprise Solutions Corp
-*January 2024 — Present*
-* Designed and executed a cloud migration strategy transitioning traditional monolithic .NET architectures into microservices hosted on Microsoft Azure.
-* Constructed internal AI tools automating data verification workflows, saving the product engineering group substantial development cycles.
-* Managed cross-functional infrastructure delivery tracks while maintaining architectural standards for 15+ internal technical staff.
-* **Skills:** `.NET Core` `Microsoft Azure` `Kubernetes` `Python` `PyTorch` `MLOps`
-
-### **Software Engineer** | Core Systems Ltd
-*June 2022 — December 2023*
-* Maintained core relational databases and built responsive high-throughput backend APIs utilizing Node.js and Express.
-* Implemented front-end dashboard applications for large internal datasets using React and Tailwind CSS.
-* Set up standardized continuous integration/continuous delivery pipelines minimizing total deployment failures.
-* **Skills:** `Node.js` `React` `PostgreSQL` `Docker` `GitHub Actions`
+### **Full Stack Intern** | EY GDS (AICTE & Edunet Foundation)
+*February 2025 — March 2025*.
+* Elevated core MERN-stack architecture features, drastically scaling overall operational stability across internal development dashboards..
+* Directly isolated and resolved over 15 critical blocking frontend layout issues and complex server API bugs across React and Node.js frameworks..
+* Contributed inside structured Agile cycles including rigorous unit regression checkups, cloud environment deployments, and engineering code documentation..
+* **Skills:** `React` `Node.js` `Express.js` `MongoDB` `MERN Stack`.
 
 ---
 
@@ -142,24 +134,19 @@ Utilized TensorRT optimization protocols to accelerate model execution times on 
 
 | Recognition | Details |
 | :---: | :--- |
-| **Hackathon Champion** | Awarded First Place out of 120 competing teams in an Enterprise Scalability Hackathon. |
-| **Outstanding Innovator** | Recognized by corporate senior leadership for developing highly efficient AI-driven automation tooling. |
+| **Enterprise Feature Delivery** | Cleaned and successfully closed 15+ production issues inside MERN frameworks during core internship timelines.. |
+| **Multi-Model Orchestrator** | Conceived, engineered, and successfully launched a complete multi-LLM, RAG-enabled production system on Vercel.. |
 
 ---
 
 ## 📜 Certifications
 
 ### **Amazon Web Services**
-![](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![](https://img.shields.io/badge/AWS-Certified_Developer-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/AWS-EC2_and_S3_Cloud_Infrastructure-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
-### **Microsoft Azure & Oracle**
-![](https://img.shields.io/badge/Azure-Solutions_Architect_Expert-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![](https://img.shields.io/badge/Oracle-Database_PL%2FSQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white)
-
-### **NPTEL & Cisco**
-![](https://img.shields.io/badge/NPTEL-Data_Structures_And_Algorithms-0052CC?style=flat-square)
-![](https://img.shields.io/badge/Cisco-CCNA_Routing_and_Switching-175BCC?style=flat-square&logo=cisco&logoColor=white)
+### **AI & Framework Certifications**
+![](https://img.shields.io/badge/LangChain-Generative_AI_Applications-0089D6?style=flat-square)
+![](https://img.shields.io/badge/MERN-Full_Stack_Development-298D46?style=flat-square&logo=mongodb&logoColor=white).
 
 ---
 
@@ -169,7 +156,6 @@ Utilized TensorRT optimization protocols to accelerate model execution times on 
   <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Solve_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-Learn_To_Code-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
   <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Certify_Skills-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-Compete-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 ---
@@ -215,12 +201,12 @@ Utilized TensorRT optimization protocols to accelerate model execution times on 
 
 ```yaml
 learning:
-  - "Distributed System Testing Paradigms"
-  - "Advanced Transformers Fine-Tuning Optimizations"
+  - "Multi-Agent Systems Coordination Optimization".
+  - "Advanced Cloud Infrastructure Architecture scaling over AWS".
 building:
-  - "High-Performance API Gateways tailored for Deep Learning pipelines"
+  - "Refining Nexus AI analytical engine interfaces and vector operations".
 exploring:
-  - "Quantum Machine Learning Frameworks"
+  - "Distributed database caching strategies for complex REST structures".
 open_to:
-  - "Enterprise Open Source Collaborations"
-  - "Architectural Consultations"
+  - "Software Development Engineer Roles".
+  - "Collaborative Enterprise Open Source Innovations"
